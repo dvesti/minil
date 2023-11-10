@@ -8,6 +8,8 @@ feature: /hexo-theme-freemind-blog/images/color-themes.png
 toc: true
 ---
 
+Олух  Страны Советов  
+
 Freemind contains luxuriant color themes for your choice. To use one of them, simply modify the `theme` and `inverse` settings from your theme `_config.yml` file *e.g.*
 
 ```
