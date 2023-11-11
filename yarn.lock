@@ -208,6 +208,13 @@ chokidar@^3.0.0, chokidar@^3.3.0, chokidar@^3.5.3:
   optionalDependencies:
     fsevents "~2.3.2"
 
+cjs@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.npmjs.org/cjs/-/cjs-0.0.11.tgz"
+  integrity sha512-aLndk8BnpIOy/ZxmLGCNTSFoLm0+OyZDtxNCV6jUBHBkLICanUAlkIGtnaQrCBMYTebOmWHNg8+vxtaYZ8LSfA==
+  dependencies:
+    sync-channel "*"
+
 color-convert@^2.0.1:
   version "2.0.1"
   resolved "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz"
@@ -1581,6 +1588,11 @@ symbol-tree@^3.2.4:
   version "3.2.4"
   resolved "https://registry.npmjs.org/symbol-tree/-/symbol-tree-3.2.4.tgz"
   integrity sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==
+
+sync-channel@*:
+  version "0.0.6"
+  resolved "https://registry.npmjs.org/sync-channel/-/sync-channel-0.0.6.tgz"
+  integrity sha512-rjHHukZeQW3hGgwMuOkrITv1e87nxuAKRGgwPNtCmS3Az+YdO826hBy1IDjRsTXKGc2WDWUaDU5Zx8uodXWwgg==
 
 text-table@^0.2.0:
   version "0.2.0"
