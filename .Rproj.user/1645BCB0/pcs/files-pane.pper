@@ -1,8 +1,12 @@
 {
     "sortOrder": [
         {
+            "columnIndex": 1,
+            "ascending": true
+        },
+        {
             "columnIndex": 2,
-            "ascending": false
+            "ascending": true
         }
     ],
     "path": "E:/Sites/Hexo/minil"
